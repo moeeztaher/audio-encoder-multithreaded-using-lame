@@ -1,0 +1,3 @@
+/home/yasir/Desktop/cinemo/CMakeFiles/rebuild_cache.dir
+/home/yasir/Desktop/cinemo/CMakeFiles/edit_cache.dir
+/home/yasir/Desktop/cinemo/CMakeFiles/encoder.dir
